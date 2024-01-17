@@ -12,5 +12,5 @@ def foo(array):
 
 
 if __name__ == '__main__':
-    my_array = array.array('i', [1, 2, 3, 4, 5])
-    foo(my_array)
+    myArray = array.array('i', [1, 2, 3, 4, 5])
+    foo(myArray)

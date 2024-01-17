@@ -22,7 +22,7 @@ def printUnorderedPairs2(arrayA, arrayB):
 
 
 if __name__ == '__main__':
-    my_array1 = array.array('i', [1, 2, 3, 4, 5])
-    my_array2 = array.array('i', [3, 2, 1, 0, 6])
+    myArray1 = array.array('i', [1, 2, 3, 4, 5])
+    myArray2 = array.array('i', [3, 2, 1, 0, 6])
 
-    printUnorderedPairs2(my_array1, my_array2)
+    printUnorderedPairs2(myArray1, myArray2)
