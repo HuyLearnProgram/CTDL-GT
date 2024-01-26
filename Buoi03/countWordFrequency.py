@@ -1,6 +1,6 @@
 def countWordFrequency(words):
     countWords = {}
-    for key, value in enumerate(words):
+    for value in words:
         if value not in countWords:
             countWords[value] = 1
         else:

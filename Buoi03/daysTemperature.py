@@ -1,6 +1,3 @@
-import array
-
-
 def daysTemperature():
     tempList = []
     n = int(input("How many day's temperature? "))

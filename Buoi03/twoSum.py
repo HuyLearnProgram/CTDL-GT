@@ -1,6 +1,3 @@
-import array
-
-
 def twoSum(nums, target):
     pairs = []
 

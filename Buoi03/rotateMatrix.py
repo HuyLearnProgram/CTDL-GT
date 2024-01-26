@@ -1,6 +1,3 @@
-import numpy as np
-
-
 def rotateMatrix(matrix):
     n = len(matrix)
     # Iterate over each layer of the matrix
