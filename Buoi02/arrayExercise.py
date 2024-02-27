@@ -1,3 +1,5 @@
+import random
+import copy
 import array
 import numpy as np
 # 1. Create an array and traverse.
@@ -125,8 +127,8 @@ if __name__ == '__main__':
     # print(convertString(charArray))
     # print(convertList(myArray))
 
-    # print(stringToChars("Hello"))
-    newStr = "hello"
-    charArray = appendStrongToCharArray(charArray, newStr)
-    print(charArray)
-    print(sliceArray(myArray, 2, 5))
+# print(stringToChars("Hello"))
+newStr = "hello"
+charArray = appendStrongToCharArray(charArray, newStr)
+print(charArray)
+print(sliceArray(myArray, 2, 5))
