@@ -20,14 +20,14 @@ class Youtube:
         self.subscriptions += 1
 
 
-# user1 = Youtube("Elshad", 0)
-# print(user1.username)
-# print(user1.subscribers)
+user1 = Youtube("Elshad", 0)
+print(user1.username)
+print(user1.subscribers)
 
-# user2 = Youtube("Renad")
-# user2.subscribers = 5
-# print(user2.username)
-# print(user2.subscribers)
+user2 = Youtube("Renad")
+user2.subscribers = 5
+print(user2.username)
+print(user2.subscribers)
 
 user1 = Youtube("Elshad")
 user2 = Youtube("Renad")
