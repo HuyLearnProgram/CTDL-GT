@@ -13,3 +13,5 @@ Link Notion Buổi 03: https://climbing-provelone-168.notion.site/CTDL-GT-Bu-i-3
 Link Notion Buổi 05: https://climbing-provelone-168.notion.site/CTDL-GT-Bu-i-5-e32850b57af04b52b3c40859dd8ea482?pvs=4
 
 Link Notion Buổi 06: https://climbing-provelone-168.notion.site/CTDL-GT-Bu-i-6-e29409ed41e5465b9d3a93637912ad38?pvs=4
+
+Link Notion Buổi 07: https://climbing-provelone-168.notion.site/CTDL-GT-Bu-i-7-c4d61b54d3bd4f7f8f542739e26dd4b2?pvs=4
